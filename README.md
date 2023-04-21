@@ -2,8 +2,12 @@
     https://discord.gg/bsybq9EZ
 )
 
-About me 
+## I'm a flutter developer
 
-Languages and Tools
+
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter$logoColor=47C5FB)
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart$logoColor=097CDB)
+
 
 Follow Me
