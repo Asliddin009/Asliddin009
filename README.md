@@ -1,4 +1,4 @@
-![Header](https://github.com/Asliddin009/Asliddin009/blob/main/assets/oHCXJV3EK8o.jpg)(
+[![Header](https://github.com/Asliddin009/Asliddin009/blob/main/assets/oHCXJV3EK8o.jpg)](
     https://discord.gg/bsybq9EZ
 )
 
