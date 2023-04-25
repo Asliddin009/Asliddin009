@@ -1,6 +1,4 @@
-[![Header](https://github.com/Asliddin009/Asliddin009/blob/main/assets/oHCXJV3EK8o.jpg)](
-    https://discord.gg/bsybq9EZ
-)
+[![Header](https://github.com/Asliddin009/Asliddin009/blob/main/assets/oHCXJV3EK8o.jpg)]()
 
 ## I'm a flutter developer
 
@@ -13,6 +11,15 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Conduit](https://img.shields.io/badge/-conduit-090909?style=for-the-badge&logo=conduit&logoColor=6296CC)
+![Docker](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Cisco](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Git](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=git&logoColor=F05032)
+![Jupyter](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+
+
+
+
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ds_ss_qrt)
