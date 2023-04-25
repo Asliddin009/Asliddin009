@@ -11,10 +11,10 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Conduit](https://img.shields.io/badge/-conduit-090909?style=for-the-badge&logo=conduit&logoColor=6296CC)
-![Docker](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Cisco](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![Git](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=git&logoColor=F05032)
-![Jupyter](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Cisco](https://img.shields.io/badge/-Cisco-090909?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
+![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 
 
