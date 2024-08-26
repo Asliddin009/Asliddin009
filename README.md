@@ -25,4 +25,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ds_ss_qrt)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/ds_ss_qrt)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asliddin009)](https://github.com/anuraghazra/github-readme-stats)
