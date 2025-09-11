@@ -1,11 +1,13 @@
 [![Header](https://github.com/Asliddin009/Asliddin009/blob/main/assets/oHCXJV3EK8o.jpg)]()
 
-## I'm a flutter developer
+## I'm middle+ flutter developer and go junior developer
 
 
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go&logoColor=00ADD8)  
+![gRPC](https://img.shields.io/badge/-gRPC-090909?style=for-the-badge&logo=grpc&logoColor=00CCCC)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=F88C00)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=E9D54D)
