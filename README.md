@@ -1,6 +1,6 @@
 [![Header](https://github.com/Asliddin009/Asliddin009/blob/main/assets/oHCXJV3EK8o.jpg)]()
 
-## I'm middle+ flutter developer and go junior developer
+## I'm senior flutter and golang developer
 
 
 ### Languages and Tools:
