@@ -43,10 +43,11 @@
 
 ### 💼 What I Do
 
-- 📱 Build cross-platform apps with **Flutter**
-- ⚡ Design microservices in **Go** with **gRPC**
-- 🔥 Integrate **Firebase** for realtime functionality
-- 🐳 Containerize and deploy with **Docker**
+- 📱 Build cross-platform apps with **Flutter**, including native **iOS** and **Android** modules
+- ⚡ Develop high-load backend services
+- 🚀 Deliver full-cycle app development — from idea to a turnkey product
+- 🤖 Integrate **AI agents** and orchestrate ML models
+- 🔍 Provide expert app reviews and technical audits
 
 ---
 
